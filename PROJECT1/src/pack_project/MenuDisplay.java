@@ -112,7 +112,7 @@ public class MenuDisplay extends FileOperations {
 				flag = false;
 				break;
 			default :	
-				System.out.println("Invalid option Enter a valid Option");
+				System.out.println("Invalid option Enter a valid Option.");
 				break;	
 			}
 		}while (flag);
